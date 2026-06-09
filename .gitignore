@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pyo
+corr_data/download_failed.csv
+*.xlsx
+run_dashboard.bat

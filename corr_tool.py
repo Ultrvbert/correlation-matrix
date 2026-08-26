@@ -14,7 +14,6 @@ Front-end for corr_engine. Two ways to run:
     Run with no arguments -> an interactive menu prompts for everything.
 
 Set CORR_DATA_DIR (env var) or pass --data-dir to point at the shared cache,
-e.g. a drive path like  O:\\Rob\\...\\Correlation\\data
 """
 
 import argparse
